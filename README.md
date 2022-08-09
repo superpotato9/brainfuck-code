@@ -1,2 +1,2 @@
 # brainfuck-code
-my brainfuck code snippits
+some of my brainfuck code snippits
